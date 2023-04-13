@@ -27,7 +27,7 @@ body {
 	display: flex;
 	align-items: center;
 	color: #FFFFFF;
-	animation: moveInLeft 3s ease-out;
+	animation: moveInLeft 2s ease-out;
 }
 
 .title p {
@@ -43,7 +43,7 @@ body {
 	display: flex;
 	align-items: center;
 	color: #EDB809;
-	animation: moveInLeft 3s ease-out;
+	animation: moveInLeft 2s ease-out;
 }
 
 .text {
@@ -61,7 +61,7 @@ body {
 	align-items: center;
 	text-align: center;
 	color: #FFFFFF;
-	animation: moveInLeft 3s ease-out;
+	animation: moveInRight 3s ease-out;
 }
 
 .button1 {
@@ -83,6 +83,7 @@ body {
 	box-shadow: inset 10px 6px 35px rgba(0, 0, 0, 0.6);
 	border-radius: 50px;
 	transform: matrix(1, 0, 0, 1, 0, 0);
+	animation: moveInLeft 4s ease-out;
 }
 
 .button2 {
@@ -100,6 +101,7 @@ body {
 	box-shadow: inset 10px 6px 35px rgba(0, 0, 0, 0.6);
 	border-radius: 50px;
 	transform: matrix(1, 0, 0, 1, 0, 0);
+	animation: moveInLeft 4s ease-out;
 }
 
 .button3 {
@@ -117,6 +119,7 @@ body {
 	box-shadow: inset 10px 6px 35px rgba(0, 0, 0, 0.6);
 	border-radius: 50px;
 	transform: matrix(1, 0, 0, 1, 0, 0);
+	animation: moveInLeft 4s ease-out;
 }
 
 .button1_1 {
@@ -207,4 +210,36 @@ body {
 
 .button3:hover {
 	background: #db9600;
+}
+
+@keyframes moveInLeft {
+	0% {
+		opacity: 0;
+		transform: translateX(-100px);
+	}
+
+	80% {
+		transform: translateX(10px);
+	}
+
+	100% {
+		opacity: 1;
+		transform: translate(0);
+	}
+}
+
+@keyframes moveInRight {
+	0% {
+		opacity: 0;
+		transform: translateX(100px);
+	}
+
+	80% {
+		transform: translateX(-10px);
+	}
+
+	100% {
+		opacity: 1;
+		transform: translate(0);
+	}
 }
