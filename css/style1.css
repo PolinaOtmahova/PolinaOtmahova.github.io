@@ -79,7 +79,7 @@ body {
 	position: absolute;
 	margin-top: 200px;
 	width: 150px;
-	height: 246px;
+	height: 200px;
 	left: 350px;
 	right: 1098px;
 	top: calc(50% - 246px/2 + 375px);
@@ -94,7 +94,7 @@ body {
 .button2 {
 	position: absolute;
 	margin-top: 200px;
-	height: 246px;
+	height: 200px;
 	width: 150px;
 	left: 600px;
 	right: 894px;
@@ -112,7 +112,7 @@ body {
 .button3 {
 	position: absolute;
 	margin-top: 200px;
-	height: 246px;
+	height: 200px;
 	width: 150px;
 	left: 850px;
 	right: 690px;
