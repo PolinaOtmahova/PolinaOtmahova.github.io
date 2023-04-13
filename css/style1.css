@@ -10,6 +10,7 @@ body {
 	height: 100%;
 	background-image: url("/images/bg_2_4p.png");
 	background-size: cover;
+	background-position: absolute;
 }
 
 .title h1 {
