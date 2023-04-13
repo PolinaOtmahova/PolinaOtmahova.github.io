@@ -247,7 +247,7 @@ header {
 	border: 1px solid #FFFFFF;
 }
 
-.button1 {
+.a1 {
 	position: absolute;
 	width: 127px;
 	height: 30px;
@@ -263,6 +263,11 @@ header {
 	display: flex;
 	align-items: center;
 
+	color: palevioletred;
+}
+
+.a1:hover{
+	text-decoration: none;
 	color: palevioletred;
 }
 
