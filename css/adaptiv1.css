@@ -129,10 +129,6 @@
 		max-width: none;
 	}
 
-    html{
-        height: auto;
-    }
-
 	body {
 		background-size: auto;
         overflow-y: hidden;
