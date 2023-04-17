@@ -147,23 +147,23 @@
 	}
 
 	.text {
-		font-size: 13px;
-		left: 20px;
+		font-size: 15px;
+		left: 30px;
 		top: 450px;
 	}
 
 	.button1 {
-		left: 60px;
+		left: 80px;
 		top: 325px;
 	}
 
 	.button2 {
-		left: 60px;
+		left: 80px;
 		top: 425px;
 	}
 
 	.button3 {
-		left: 60px;
+		left: 80px;
 		top: 525px;
 	}
 }
