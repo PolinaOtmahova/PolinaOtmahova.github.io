@@ -1,5 +1,4 @@
-@media screen,
-(max-width:780px) {
+@media screen and (max-width:780px) {
 	.container {
 		max-width: 550px;
 	}
@@ -36,8 +35,7 @@
 	}
 }
 
-@media screen,
-(max-width:670px) {
+@media screen and (max-width:670px) {
 	.container {
 		max-width: 440px;
 	}
@@ -80,8 +78,7 @@
 	}
 }
 
-@media screen,
-(max-width:585px) {
+@media screen and (max-width:585px) {
 	.container {
 		max-width: none;
 	}
@@ -127,8 +124,7 @@
 }
 
 
-@media screen,
-(max-width:430px) {
+@media screen and (max-width:430px) {
 	.container {
 		max-width: none;
 	}
