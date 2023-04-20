@@ -202,6 +202,7 @@ header {
 }
 
 .photo{
+	display: flex;
 	left:200px;
 	top: 380px;
 }
