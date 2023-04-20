@@ -1,9 +1,9 @@
 html {
 	height: 2000px;
-	width: 100%;
 }
 
 body {
+	display: flex;
 	overflow-x: hidden;
 	overflow-y: scroll;
 	height: 100%;
@@ -20,11 +20,13 @@ body {
 }
 
 header {
+	display: flex;
 	position: absolute;
 	height: 66px;
 }
 
 .nav {
+	display: flex;
 	position: absolute;
 	left: 230px;
 	right: 150px;
@@ -137,6 +139,7 @@ header {
 }
 
 .icons1 {
+	display: flex;
 	position: absolute;
 	height: 51px;
 	left: 1000px;
@@ -144,6 +147,7 @@ header {
 }
 
 .img1 {
+	display: flex;
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -153,6 +157,7 @@ header {
 }
 
 .img2 {
+	display: flex;
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -162,6 +167,7 @@ header {
 }
 
 .img3 {
+	display: flex;
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -170,6 +176,7 @@ header {
 }
 
 .img4 {
+	display: flex;
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -179,6 +186,7 @@ header {
 }
 
 .body {
+	display: flex;
 	position: absolute;
 	height: 942.59px;
 	left: 0px;
@@ -244,6 +252,7 @@ header {
 }
 
 .button {
+	display: flex;
 	box-sizing: border-box;
 
 	position: absolute;
@@ -276,6 +285,7 @@ header {
 }
 
 footer {
+	display: flex;
 	height: 143px;
 	left: 0px;
 	border-radius: 0px;
@@ -307,6 +317,7 @@ footer {
 }
 
 .icons2 {
+	display: flex;
 	position: absolute;
 	left: 530px;
 	right: 808px;
@@ -315,6 +326,7 @@ footer {
 }
 
 .img1_1 {
+	display: flex;
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -324,6 +336,7 @@ footer {
 }
 
 .img2_1 {
+	display: flex;
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -333,6 +346,7 @@ footer {
 }
 
 .img3_1 {
+	display: flex;
 	position: absolute;
 	width: 32px;
 	height: 32px;
@@ -341,6 +355,7 @@ footer {
 }
 
 .img4_1 {
+	display: flex;
 	position: absolute;
 	width: 32px;
 	height: 32px;
