@@ -1,5 +1,4 @@
-@media screen,
-(max-width:1280px) {
+@media screen and (max-width:1280px) {
 	.container {
 		max-width: 1050px;
 	}
@@ -14,8 +13,7 @@
 	}
 }
 
-@media screen,
-(max-width:1200px) {
+@media screen and (max-width:1200px) {
 	.container {
 		max-width: 970px;
 	}
@@ -74,8 +72,7 @@
 	}
 }
 
-@media screen,
-(max-width:1140px) {
+@media screen and (max-width:1140px) {
 	.container {
 		max-width: 910px;
 	}
@@ -159,8 +156,7 @@
 	}
 }
 
-@media screen,
-(max-width:980px) {
+@media screen and (max-width:980px) {
 	.container {
 		max-width: 750px;
 	}
@@ -213,8 +209,7 @@
 	}
 }
 
-@media screen,
-(max-width:880px) {
+@media screen and (max-width:880px) {
 	.container {
 		max-width: 650px;
 	}
@@ -291,8 +286,7 @@
 	}
 }
 
-@media screen,
-(max-width:790px) {
+@media screen and (max-width:790px) {
 	.container {
 		max-width: none;
 	}
