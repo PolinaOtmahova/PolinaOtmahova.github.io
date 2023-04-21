@@ -548,19 +548,19 @@
 		position: absolute;
 		left: 150px;
 		right: 0px;
-		top: 350px;
+		top: 300px;
 		bottom: 0px;
 	}
 
 	.text2 {
-		left: 100px;
+		left: 130px;
 		font-size: 20px;
 		width: 356px;
 		height: 500px;
 	}
 
 	.button {
-		left: 240px;
+		left: 190px;
 	}
 
 	.text3 {
