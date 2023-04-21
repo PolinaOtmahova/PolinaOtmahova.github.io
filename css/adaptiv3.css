@@ -506,7 +506,7 @@
 
 	.nav-item1 {
 		font-size: 20px;
-		left: 10px;
+		left: 5px;
 	}
 
 	.nav-item2 {
@@ -516,22 +516,22 @@
 
 	.nav-item3 {
 		font-size: 20px;
-		left: 270px;
+		left: 200px;
 
 	}
 
 	.nav-item4 {
 		font-size: 20px;
-		left: 390px;
+		left: 300px;
 	}
 
 	.icons1 {
-		left: 190px;
+		left: 140px;
 	}
 
 	.t {
 		top: 120px;
-		left: 230px;
+		left: 260px;
 	}
 
 	.Polina {
@@ -542,18 +542,18 @@
 		border-radius: 0px;
 	
 		position: absolute;
-		left: 100px;
+		left: 150px;
 		right: 0px;
 		top: 450px;
 		bottom: 0px;
 	}
 
 	.text2 {
-		left: 60px;
+		left: 100px;
 	}
 
 	.button {
-		left: 200px;
+		left: 240px;
 	}
 
 	.text3 {
