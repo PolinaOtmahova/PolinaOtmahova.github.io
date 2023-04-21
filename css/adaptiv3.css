@@ -138,8 +138,10 @@
 		border-radius: 0px;
 	
 		position: absolute;
-		align-items: center;
-		
+		left: 450px;
+		right: 0px;
+		top: 400px;
+		bottom: 0px;
 	}
 
 	.text2 {
