@@ -196,9 +196,18 @@
 		left: 430px;
 	}
 
-	.photo {
-		left: 340px;
-		top: 300px;
+	.Polina {
+		height: 400px;
+		width: 328px;
+		left: 200px;
+		top: 200px;
+		border-radius: 0px;
+	
+		position: absolute;
+		left: 350px;
+		right: 0px;
+		top: 450px;
+		bottom: 0px;
 	}
 
 	.text2 {
