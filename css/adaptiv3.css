@@ -504,6 +504,10 @@
 		max-width: none;
 	}
 
+	.nav{
+		left: 100px;
+	}
+
 	.nav-item1 {
 		font-size: 20px;
 		left: 5px;
@@ -511,7 +515,7 @@
 
 	.nav-item2 {
 		font-size: 20px;
-		left: 100px;
+		left: 110px;
 	}
 
 	.nav-item3 {
