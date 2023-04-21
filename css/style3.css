@@ -201,13 +201,7 @@ header {
 	color: #FFFFFF;
 }
 
-.photo{
-	display: flex;
-	left:200px;
-	top: 380px;
-}
-
-.Polina {
+.photo {
 	height: 400px;
 	width: 328px;
 	left: 200px;
