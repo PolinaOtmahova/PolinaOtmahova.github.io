@@ -505,28 +505,28 @@
 	}
 
 	.nav{
-		left: 50px;
+		left: 80px;
 	}
 
 	.nav-item1 {
 		font-size: 15px;
-		left: 5px;
+		left: 0;
 	}
 
 	.nav-item2 {
 		font-size: 15px;
-		left: 120px;
+		left: 100px;
 	}
 
 	.nav-item3 {
 		font-size: 15px;
-		left: 210px;
+		left: 190px;
 
 	}
 
 	.nav-item4 {
 		font-size: 15px;
-		left: 310px;
+		left: 270px;
 	}
 
 	.icons1 {
@@ -546,7 +546,7 @@
 		border-radius: 0px;
 	
 		position: absolute;
-		left: 150px;
+		left: 160px;
 		right: 0px;
 		top: 300px;
 		bottom: 0px;
