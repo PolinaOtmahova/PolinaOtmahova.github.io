@@ -315,7 +315,7 @@
 
 @media screen and (max-width:790px) {
 	.container {
-		max-width: none;
+		max-width: 560px;
 	}
 
 	.nav-item1 {
@@ -372,5 +372,67 @@
 
 	.icons2 {
 		left: 260px;
+	}
+}
+
+@media screen and (max-width:730px) {
+	.container {
+		max-width: none;
+	}
+
+	.nav-item1 {
+		left: 40px;
+	}
+
+	.nav-item2 {
+		left: 170px;
+	}
+
+	.nav-item3 {
+		left: 320px;
+
+	}
+
+	.nav-item4 {
+		left: 440px;
+	}
+
+	.icons1 {
+		left: 230px;
+	}
+
+	.t {
+		top: 120px;
+		left: 320px;
+	}
+
+	.Polina {
+		height: 400px;
+		width: 328px;
+		left: 200px;
+		top: 200px;
+		border-radius: 0px;
+	
+		position: absolute;
+		left: 225px;
+		right: 0px;
+		top: 450px;
+		bottom: 0px;
+	}
+
+	.text2 {
+		left: 160px;
+	}
+
+	.button {
+		left: 290px;
+	}
+
+	.text3 {
+		left: 330px;
+	}
+
+	.icons2 {
+		left: 230px;
 	}
 }
