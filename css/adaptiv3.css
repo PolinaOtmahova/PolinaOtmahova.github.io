@@ -535,14 +535,14 @@
 	}
 
 	.Polina {
-		height: 400px;
-		width: 328px;
+		height: 100px;
+		width: 128px;
 		left: 200px;
 		top: 200px;
 		border-radius: 0px;
 	
 		position: absolute;
-		left: 150px;
+		left: 250px;
 		right: 0px;
 		top: 350px;
 		bottom: 0px;
