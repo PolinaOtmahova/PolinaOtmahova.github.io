@@ -375,6 +375,68 @@
 	}
 }
 
+@media screen and (max-width:730px) {
+	.container {
+		max-width: 500px;
+	}
+
+	.nav-item1 {
+		left: 40px;
+	}
+
+	.nav-item2 {
+		left: 170px;
+	}
+
+	.nav-item3 {
+		left: 320px;
+
+	}
+
+	.nav-item4 {
+		left: 440px;
+	}
+
+	.icons1 {
+		left: 230px;
+	}
+
+	.t {
+		top: 120px;
+		left: 320px;
+	}
+
+	.Polina {
+		height: 400px;
+		width: 328px;
+		left: 200px;
+		top: 200px;
+		border-radius: 0px;
+	
+		position: absolute;
+		left: 225px;
+		right: 0px;
+		top: 450px;
+		bottom: 0px;
+	}
+
+	.text2 {
+		left: 160px;
+	}
+
+	.button {
+		left: 290px;
+	}
+
+	.text3 {
+		left: 330px;
+	}
+
+	.icons2 {
+		left: 230px;
+	}
+}
+
 @media screen and (max-width:700px) {
 	.container {
 		max-width: none;
@@ -437,35 +499,35 @@
 	}
 }
 
-@media screen and (max-width:730px) {
+@media screen and (max-width:400px) {
 	.container {
-		max-width: 500px;
+		max-width: none;
 	}
 
 	.nav-item1 {
-		left: 40px;
+		left: 20px;
 	}
 
 	.nav-item2 {
-		left: 170px;
+		left: 100px;
 	}
 
 	.nav-item3 {
-		left: 320px;
+		left: 270px;
 
 	}
 
 	.nav-item4 {
-		left: 440px;
+		left: 390px;
 	}
 
 	.icons1 {
-		left: 230px;
+		left: 190px;
 	}
 
 	.t {
 		top: 120px;
-		left: 320px;
+		left: 230px;
 	}
 
 	.Polina {
@@ -476,25 +538,25 @@
 		border-radius: 0px;
 	
 		position: absolute;
-		left: 225px;
+		left: 100px;
 		right: 0px;
 		top: 450px;
 		bottom: 0px;
 	}
 
 	.text2 {
-		left: 160px;
+		left: 20px;
 	}
 
 	.button {
-		left: 290px;
+		left: 160px;
 	}
 
 	.text3 {
-		left: 330px;
+		left: 200px;
 	}
 
 	.icons2 {
-		left: 230px;
+		left: 100px;
 	}
 }
