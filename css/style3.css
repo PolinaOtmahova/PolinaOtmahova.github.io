@@ -275,9 +275,11 @@ header {
 footer {
 	position: fixed;
 	height: 143px;
+	left: 0px;
 	border-radius: 0px;
 	position: absolute;
 	height: 143px;
+	left: 0px;
 	right: 0px;
 	top: 1857.59px;
 	background: #000000ad;
