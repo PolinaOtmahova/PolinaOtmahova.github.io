@@ -530,7 +530,27 @@
 	}
 
 	.icons1 {
-		left: 165px;
+		left: 100px;
+	}
+
+	.img1{
+		width: 22px;
+		height: 22px;
+	}
+
+	.img2{
+		width: 22px;
+		height: 22px;
+	}
+
+	.img3{
+		width: 22px;
+		height: 22px;
+	}
+
+	.img4{
+		width: 22px;
+		height: 22px;
 	}
 
 	.t {
