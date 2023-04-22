@@ -504,6 +504,14 @@
 		max-width: none;
 	}
 
+	html{
+        height: 900px;
+    }
+
+	body {
+		background-size: auto;
+	}
+
 	body{
 		background-image: url("/images/bg311p.jpg");
 		background-size: auto;
