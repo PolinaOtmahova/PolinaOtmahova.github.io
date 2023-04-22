@@ -12,6 +12,10 @@ body {
 	background-size: cover;
 }
 
+.nav{
+	left:150px;
+}
+
 .nav a {
 	text-decoration: none;
 }
