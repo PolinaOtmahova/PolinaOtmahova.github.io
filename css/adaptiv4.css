@@ -41,3 +41,60 @@
     }
 }
 
+@media screen and (max-width:670px) {
+    .container {
+        max-width: 440px;
+    }
+
+    body {
+        background-size: auto;
+    }
+    .nav-item1 {
+        font-size:15px;
+        left: 130px;
+    }
+
+    .nav-item2 {
+        font-size:15px;
+        left: 275px;
+    }
+
+    .nav-item3 {
+        font-size:15px;
+        left: 448px;
+    }
+
+    .nav-item4 {
+        font-size:15px;
+        left: 590px;
+    }
+
+    .text1 {
+        font-size: 30px;
+        left: 280px;
+    }
+
+    .icons {
+        left: 172px;
+    }
+
+    .img1 {
+        width: 32px;
+        height: 32px;
+    }
+    
+    .img2 {
+        width: 32px;
+        height: 32px;
+    }
+    
+    .img3 {
+        width: 32px;
+        height: 32px;
+    }
+    
+    .img4 {
+        width: 32px;
+        height: 32px;
+    }
+}
