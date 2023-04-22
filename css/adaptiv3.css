@@ -512,6 +512,7 @@
 	body{
 		background-image: url("/images/bg311p.jpg");
 		background-size: cover;
+		overflow-x: hidden;
 	}
 
 	.nav{
