@@ -36,7 +36,6 @@ body {
 .nav-item1 {
 	position: absolute;
 	list-style-type: none;
-	width: 140px;
 	height: 17px;
 	left: 171px;
 	top: 16px;
@@ -61,7 +60,6 @@ body {
 .nav-item2 {
 	position: absolute;
 	list-style-type: none;
-	width: 149px;
 	height: 17px;
 	left: 315px;
 	top: 16px;
