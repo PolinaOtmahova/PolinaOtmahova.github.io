@@ -581,14 +581,15 @@
 	}
 
 	.text2 {
-		left: 60px;
-		font-size: 10px;
-		width: 256px;
+		left: 90px;
+		font-size: 13px;
+		width: 286px;
 		height: 400px;
 	}
 
 	.button {
-		left: 230px;
+		font-size: 20px;
+		left: 150px;
 	}
 
 	.text3 {
