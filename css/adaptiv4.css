@@ -5,7 +5,7 @@
 
 	body {
 		background-image: url("/images/bg11.jpg");
-		background-size: auto;
+		background-size: cover;
 	}
 
     .nav{
