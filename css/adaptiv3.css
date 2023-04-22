@@ -557,13 +557,14 @@
 	}
 
 	.t {
+		font-size: 25px;
 		top: 120px;
-		left: 250px;
+		left: 200px;
 	}
 
 	.Polina {
-		height: 400px;
-		width: 328px;
+		height: 300px;
+		width: 228px;
 		left: 200px;
 		top: 200px;
 		border-radius: 0px;
