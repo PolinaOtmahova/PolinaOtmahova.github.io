@@ -5,7 +5,7 @@
 
 	body {
 		background-image: url("/images/bg11.jpg");
-		background-size: cover;
+		background-size: auto;
 	}
 
     .nav{
@@ -27,5 +27,10 @@
     .nav-item4 {
         font-size:20px;
     }
+
+    .text1 {
+        left: 300px;
+    }
+
 }
 
