@@ -507,6 +507,7 @@
 
 	body{
 		background-image: url("/images/bg312p.jpg");
+		background-size: auto;
 	}
 
 	.nav{
