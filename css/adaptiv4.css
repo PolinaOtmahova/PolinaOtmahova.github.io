@@ -144,6 +144,10 @@
 		max-width: none;
 	}
 
+    body{
+        background-image: url("/images/bg112.jpg");
+    }
+
     .nav-item1 {
         font-size: 13px;
         left: 30px;
