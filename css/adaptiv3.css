@@ -607,10 +607,35 @@
 	}
 
 	.text3 {
+		font-size: 25px;
 		left: 150px;
 	}
 
 	.icons2 {
-		left: 140px;
+		left: 75px;
 	}
+
+	.img1_1{
+		width: 22px;
+		height: 22px;
+	}
+
+	.img2_1{
+		width: 22px;
+		height: 22px;
+		left: 89px;
+	}
+
+	.img3_1{
+		width: 22px;
+		height: 22px;
+		left: 131px;
+	}
+
+	.img4_1{
+		width: 22px;
+		height: 22px;
+		left: 173px;
+	}
+
 }
