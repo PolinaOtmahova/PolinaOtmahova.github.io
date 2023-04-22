@@ -504,14 +504,9 @@
 		max-width: none;
 	}
 
-	html{
-        height: 2000px;
-    }
-
 
 	body{
-		background-image: url("/images/bg311p.jpg");
-
+		background-image: url("/images/bg312p.jpg");
 	}
 
 	.nav{
