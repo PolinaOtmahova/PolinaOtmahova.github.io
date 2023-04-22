@@ -49,6 +49,7 @@
     body {
         background-size: cover;
     }
+
     .nav-item1 {
         font-size:15px;
         left: 120px;
@@ -99,5 +100,41 @@
         width: 32px;
         height: 32px;
         left: 334px;
+    }
+}
+
+@media screen and (max-width:540px) {
+	.container {
+		max-width: none;
+	}
+
+	body {
+		background-image: url("/images/bg111.jpg");
+		background-size: cover;
+	}
+
+    .nav-item1 {
+        left: 90px;
+    }
+
+    .nav-item2 {
+        left: 200px;
+    }
+
+    .nav-item3 {
+        left: 338px;
+    }
+
+    .nav-item4 {
+        left: 460px;
+    }
+
+    .text1 {
+        font-size: 30px;
+        left: 230px;
+    }
+
+    .icons {
+        left: 100px;
     }
 }
