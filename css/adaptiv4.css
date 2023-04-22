@@ -1,19 +1,31 @@
-@media screen and (max-width:1125px) {
+@media screen and (max-width:780px) {
 	.container {
-		max-width: 895px;
+		max-width: 550px;
 	}
 
-    .nav {
-        left: 50px;
+	body {
+		background-image: url("/images/bg11.jpg");
+		background-size: auto;
+	}
+
+    .nav{
+        left:50px;
     }
 
-    .text1 {
-        left: 370px;
+    .nav-item1 {
+        font-size:25px;
     }
 
-    .icons {
-        left: 260px;
+    .nav-item2 {
+        font-size:25px;
     }
 
+    .nav-item3 {
+        font-size:25px;
+    }
+
+    .nav-item4 {
+        font-size:25px;
+    }
 }
 
