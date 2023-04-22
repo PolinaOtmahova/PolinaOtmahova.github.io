@@ -245,7 +245,7 @@ header {
 	left: 880px;
 	top: 886px;
 	bottom: 16.59px;
-	font-family: 'Gilroy';
+	
 
 	background: #000000ad;
 	border: 1px solid #FFFFFF;
@@ -258,7 +258,7 @@ header {
 	left: 29px;
 	top: 5px;
 
-	font-family: 'Pompadur';
+	font-family: 'Gilroy';
 	font-style: normal;
 	font-weight: 600;
 	font-size: 25px;
