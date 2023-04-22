@@ -172,4 +172,31 @@
         font-size: 25px;
         left: 130px;
     }
+
+    .icons {
+        left: 90px;
+    }
+
+    .img1 {
+        width: 32px;
+        height: 32px;
+    }
+    
+    .img2 {
+        width: 32px;
+        height: 32px;
+        left: 111px;
+    }
+    
+    .img3 {
+        width: 32px;
+        height: 32px;
+        left: 217px;
+    }
+    
+    .img4 {
+        width: 32px;
+        height: 32px;
+        left: 304px;
+    }
 }
