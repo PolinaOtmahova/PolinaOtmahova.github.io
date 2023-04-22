@@ -58,7 +58,7 @@ body {
 .text {
 	position: absolute;
 	height: 29px;
-	left: 290px;
+	left: 240px;
 	top: 652px;
 	font-family: 'Inter';
 	font-style: normal;
@@ -80,7 +80,7 @@ body {
 	gap: 10px;
 
 	position: absolute;
-	margin-top: 200px;
+	margin-top: 250px;
 	width: 218px;
 	height: 65px;
 	left: 300px;
@@ -112,7 +112,7 @@ body {
 .button2 {
 	display: flex;
 	position: absolute;
-	margin-top: 200px;
+	margin-top: 250px;
 	width: 218px;
 	height: 65px;
 	left: 560px;
@@ -146,7 +146,7 @@ body {
 .button3 {
 	display: flex;
 	position: absolute;
-	margin-top: 200px;
+	margin-top: 250px;
 	width: 218px;
 	height: 65px;
 	left: 820px;
