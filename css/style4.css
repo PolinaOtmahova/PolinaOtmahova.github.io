@@ -10,7 +10,17 @@ body {
 	height: 100%;
 	background-image: url("/images/bg1_2_4p.jpg");
 	background-size: cover;
+	background-position: absolute;
+	background-repeat: no-repeat;
 }
+
+
+.container {
+	max-width: 1200px;
+	margin: 0px auto;
+	padding: 0px 15px;
+}
+
 
 .nav {
 	position: absolute;
