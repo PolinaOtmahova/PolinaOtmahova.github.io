@@ -558,8 +558,8 @@
 
 	.t {
 		font-size: 25px;
-		top: 120px;
-		left: 200px;
+		top: 90px;
+		left: 150px;
 	}
 
 	.Polina {
@@ -570,7 +570,7 @@
 		border-radius: 0px;
 	
 		position: absolute;
-		left: 160px;
+		left: 100px;
 		right: 0px;
 		top: 300px;
 		bottom: 0px;
