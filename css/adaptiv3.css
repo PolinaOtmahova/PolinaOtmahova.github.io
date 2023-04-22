@@ -504,6 +504,10 @@
 		max-width: none;
 	}
 
+	body{
+		background-image: url("/images/bg311p.jpg");
+	}
+
 	.nav{
 		left: 80px;
 	}
