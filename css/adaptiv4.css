@@ -71,11 +71,11 @@
 
     .text1 {
         font-size: 30px;
-        left: 280px;
+        left: 200px;
     }
 
     .icons {
-        left: 172px;
+        left: 120px;
     }
 
     .img1 {
@@ -86,15 +86,18 @@
     .img2 {
         width: 32px;
         height: 32px;
+        left: 141px;
     }
     
     .img3 {
         width: 32px;
         height: 32px;
+        left: 237px;
     }
     
     .img4 {
         width: 32px;
         height: 32px;
+        left: 334px;
     }
 }
