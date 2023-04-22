@@ -505,16 +505,13 @@
 	}
 
 	html{
-        height: 900px;
+        height: 1100px;
     }
 
-	body {
-		background-size: auto;
-	}
 
 	body{
 		background-image: url("/images/bg311p.jpg");
-		background-size: auto;
+		background-size: cover;
 	}
 
 	.nav{
