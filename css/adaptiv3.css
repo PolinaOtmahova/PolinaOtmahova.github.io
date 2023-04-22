@@ -595,11 +595,15 @@
 		left: 110px;
 	}
 
+	footer{
+		top:1100px
+	}
+
 	.text3 {
-		left: 240px;
+		left: 150px;
 	}
 
 	.icons2 {
-		left: 165px;
+		left: 140px;
 	}
 }
