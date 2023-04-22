@@ -13,11 +13,12 @@ body {
 }
 
 .nav{
-	left:80px;
+	
 }
 
 .nav a {
 	text-decoration: none;
+	left:80px;
 }
 
 .nav-item1 {
