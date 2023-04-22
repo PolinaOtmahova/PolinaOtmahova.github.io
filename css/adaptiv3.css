@@ -563,7 +563,7 @@
 	.t {
 		font-size: 25px;
 		top: 90px;
-		left: 160px;
+		left: 155px;
 	}
 
 	.Polina {
@@ -574,7 +574,7 @@
 		border-radius: 0px;
 	
 		position: absolute;
-		left: 95px;
+		left: 90px;
 		right: 0px;
 		top: 200px;
 		bottom: 0px;
@@ -582,7 +582,7 @@
 
 	.text2 {
 		top: 550px;
-		left: 65px;
+		left: 60px;
 		font-size: 13px;
 		width: 290px;
 		height: 300px;
@@ -590,8 +590,9 @@
 	}
 
 	.button {
-		font-size: 20px;
-		left: 150px;
+		top: 900px;
+		font-size: 15px;
+		left: 120px;
 	}
 
 	.text3 {
