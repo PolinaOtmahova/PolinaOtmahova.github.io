@@ -581,10 +581,11 @@
 	}
 
 	.text2 {
-		left: 90px;
+		left: 75px;
 		font-size: 13px;
-		width: 286px;
+		width: 290px;
 		height: 400px;
+		line-height: 23px;
 	}
 
 	.button {
