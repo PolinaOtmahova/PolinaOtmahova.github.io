@@ -47,26 +47,26 @@
     }
 
     body {
-        background-size: auto;
+        background-size: cover;
     }
     .nav-item1 {
         font-size:15px;
-        left: 130px;
+        left: 100px;
     }
 
     .nav-item2 {
         font-size:15px;
-        left: 275px;
+        left: 200px;
     }
 
     .nav-item3 {
         font-size:15px;
-        left: 448px;
+        left: 348px;
     }
 
     .nav-item4 {
         font-size:15px;
-        left: 590px;
+        left: 490px;
     }
 
     .text1 {
