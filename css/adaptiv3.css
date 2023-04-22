@@ -510,9 +510,8 @@
 
 
 	body{
-		background-image: url("/images/bg311p.jpg");
+		background-image: url("/images/bg311p\ \(1\).jpg");
 		background-size: auto;
-		overflow-x: hidden;
 	}
 
 	.nav{
