@@ -41,6 +41,7 @@ header {
 .nav-item1 {
 	position: absolute;
 	list-style-type: none;
+	width: 140px;
 	height: 17px;
 	left: 171px;
 	top: 16px;
@@ -65,6 +66,7 @@ header {
 .nav-item2 {
 	position: absolute;
 	list-style-type: none;
+	width: 149px;
 	height: 17px;
 	left: 320px;
 	top: 16px;
@@ -89,6 +91,7 @@ header {
 .nav-item3 {
 	position: absolute;
 	list-style-type: none;
+	width: 153px;
 	height: 17px;
 	left: 488px;
 	top: 16px;
