@@ -499,6 +499,16 @@
 	}
 }
 
+@media screen and (max-width:420px) {
+	.container {
+		max-width: none;
+	}
+
+	.nav{
+		left: 35px;
+	}
+}
+
 @media screen and (max-width:400px) {
 	.container {
 		max-width: none;
