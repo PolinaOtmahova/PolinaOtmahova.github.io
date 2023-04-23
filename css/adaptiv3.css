@@ -517,6 +517,20 @@
 		top: 90px;
 		left: 230px;
 	}
+
+	.Polina {
+		height: 300px;
+		width: 228px;
+		left: 200px;
+		top: 200px;
+		border-radius: 0px;
+	
+		position: absolute;
+		left: 85px;
+		right: 0px;
+		top: 200px;
+		bottom: 0px;
+	}
 }
 
 @media screen and (max-width:400px) {
