@@ -531,6 +531,15 @@
 		top: 250px;
 		bottom: 0px;
 	}
+
+	.text2 {
+		top: 550px;
+		left: 105px;
+		font-size: 13px;
+		width: 290px;
+		height: 300px;
+		line-height: 23px;
+	}
 }
 
 @media screen and (max-width:400px) {
