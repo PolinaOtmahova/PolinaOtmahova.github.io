@@ -506,6 +506,7 @@
 
 	body{
 		background-image: url("/images/bg313p.jpg");
+		background-size: cover;
 	}
 
 	.nav{
@@ -593,7 +594,7 @@
 	.button {
 		top: 950px;
 		font-size: 15px;
-		left: 115px;
+		left: 125px;
 	}
 }
 
