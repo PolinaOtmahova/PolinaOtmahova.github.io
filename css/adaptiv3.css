@@ -531,7 +531,7 @@
 
 
 	.icons1 {
-		left: 110px;
+		left: 105px;
 	}
 
 	.img1{
@@ -571,15 +571,15 @@
 		border-radius: 0px;
 	
 		position: absolute;
-		left: 140px;
+		left: 120px;
 		right: 0px;
 		top: 250px;
 		bottom: 0px;
 	}
 
 	.text2 {
-		top: 550px;
-		left: 105px;
+		top: 600px;
+		left: 85px;
 		font-size: 13px;
 		width: 290px;
 		height: 300px;
