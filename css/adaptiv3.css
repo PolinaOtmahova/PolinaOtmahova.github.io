@@ -585,6 +585,12 @@
 		height: 300px;
 		line-height: 23px;
 	}
+
+	.button {
+		top: 950px;
+		font-size: 15px;
+		left: 105px;
+	}
 }
 
 @media screen and (max-width:400px) {
