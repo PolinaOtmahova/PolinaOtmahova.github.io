@@ -507,6 +507,16 @@
 	.nav{
 		left: 35px;
 	}
+
+	.icons1 {
+		left: 50px;
+	}
+
+	.t {
+		font-size: 25px;
+		top: 90px;
+		left: 150px;
+	}
 }
 
 @media screen and (max-width:400px) {
