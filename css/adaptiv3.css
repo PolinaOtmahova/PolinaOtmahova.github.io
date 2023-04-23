@@ -596,6 +596,38 @@
 		font-size: 15px;
 		left: 135px;
 	}
+
+	.text3 {
+		font-size: 25px;
+		left: 145px;
+	}
+
+	.icons2 {
+		left: 105px;
+	}
+
+	.img1_1{
+		width: 22px;
+		height: 22px;
+	}
+
+	.img2_1{
+		width: 22px;
+		height: 22px;
+		left: 89px;
+	}
+
+	.img3_1{
+		width: 22px;
+		height: 22px;
+		left: 131px;
+	}
+
+	.img4_1{
+		width: 22px;
+		height: 22px;
+		left: 173px;
+	}
 }
 
 @media screen and (max-width:400px) {
