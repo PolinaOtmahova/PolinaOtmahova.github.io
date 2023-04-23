@@ -276,6 +276,11 @@ header {
 	color: palevioletred;
 }
 
+.a1:hover{
+	color:palevioletred;
+	text-decoration: none;
+}
+
 footer {
 	position: fixed;
 	height: 143px;
