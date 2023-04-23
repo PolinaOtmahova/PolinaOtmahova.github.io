@@ -257,6 +257,10 @@ header {
 	border: 1px solid #FFFFFF;
 }
 
+.button1{
+	list-style-type: none;
+}
+
 .a1 {
 	position: absolute;
 	width: 127px;
@@ -272,7 +276,7 @@ header {
 
 	display: flex;
 	align-items: center;
-	list-style-type: none;
+	
 
 	color: palevioletred;
 }
