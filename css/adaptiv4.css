@@ -148,6 +148,10 @@
         background-image: url("/images/bg112.jpg");
     }
 
+    .nav{
+        left: 30px;
+    }
+
     .nav-item1 {
         font-size: 13px;
         left: 30px;
@@ -171,12 +175,12 @@
     .text1 {
         top: 70px;
         font-size: 25px;
-        left: 120px;
+        left: 160px;
     }
 
     .icons {
         top: 450px;
-        left: 30px;
+        left: 70px;
     }
 
     .img1 {
