@@ -139,6 +139,67 @@
     }
 }
 
+@media screen and (max-width:420px) {
+	.container {
+		max-width: none;
+	}
+
+    .nav-item1 {
+        font-size: 13px;
+        left: 30px;
+    }
+
+    .nav-item2 {
+        font-size: 13px;
+        left: 120px;
+    }
+
+    .nav-item3 {
+        font-size: 13px;
+        left: 218px;
+    }
+
+    .nav-item4 {
+        font-size: 13px;
+        left: 300px;
+    }
+
+    .text1 {
+        top: 70px;
+        font-size: 25px;
+        left: 120px;
+    }
+
+    .icons {
+        top: 450px;
+        left: 30px;
+    }
+
+    .img1 {
+        width: 32px;
+        height: 32px;
+    }
+    
+    .img2 {
+        width: 32px;
+        height: 32px;
+        left: 111px;
+    }
+    
+    .img3 {
+        width: 32px;
+        height: 32px;
+        left: 180px;
+    }
+    
+    .img4 {
+        width: 32px;
+        height: 32px;
+        left: 250px;
+    }
+}
+}
+
 @media screen and (max-width:400px) {
 	.container {
 		max-width: none;
