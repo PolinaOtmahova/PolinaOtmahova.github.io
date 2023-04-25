@@ -1,5 +1,6 @@
 html {
-	height: 2000px;
+	height: 100%;
+	width: 100%;
 }
 
 body {
@@ -7,10 +8,7 @@ body {
 	overflow-x:hidden;
 	overflow-y: scroll;
 	height: 100%;
-	background-image: url("/images/bg31p.jpg");
-	background-position: absolute;
-	background-size: cover;
-	background-repeat: no-repeat;
+	background: url("/images/bg31p.jpg") center no-repeat fixed;
 }
 
 .container {
