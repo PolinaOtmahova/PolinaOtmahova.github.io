@@ -505,8 +505,7 @@
 	}
 
 	body{
-		background-image: url("/images/bg312p.jpg");
-		background-size: cover;
+		background: url("/images/bg314p.jpg") no-repeat fixed;
 	}
 
 	.nav{
@@ -637,7 +636,7 @@
 
 
 	body{
-		background-image: url("/images/bg313p.jpg");
+		background: url("/images/bg315p.jpg") no-repeat fixed;
 	}
 
 	.nav{
