@@ -510,6 +510,7 @@
 		background-position: center center;
 		background-repeat: no-repeat;
 		background-attachment: fixed;
+		position: fixed;
 	}
 
 	.nav{
@@ -645,8 +646,9 @@
 	body{
 		background: url("/images/bg317p.jpg");
 		background-position: center center;
-		background-repeat: repeat;
+		background-repeat:no-repeat;
 		background-attachment: fixed;
+		position: fixed;
 	}
 
 	.nav{
