@@ -506,7 +506,10 @@
 	}
 
 	body{
-		background: url("/images/bg316p.jpg") no-repeat fixed;
+		background: url("/images/bg316p.jpg");
+		background-position: center auto;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
 	}
 
 	.nav{
