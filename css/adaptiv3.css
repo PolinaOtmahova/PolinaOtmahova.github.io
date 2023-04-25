@@ -643,7 +643,10 @@
 	}
 
 	body{
-		background: url("/images/bg317p.jpg") no-repeat fixed;
+		background: url("/images/bg317p.jpg");
+		background-position: center center;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
 	}
 
 	.nav{
