@@ -641,7 +641,7 @@
 
 
 	body{
-		background: url("/images/bg315p.jpg") center cover no-repeat fixed;
+		background: url("/images/bg315p.jpg") center center cover no-repeat fixed;
 	}
 
 	.nav{
