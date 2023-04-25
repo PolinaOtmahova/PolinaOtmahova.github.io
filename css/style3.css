@@ -1,5 +1,9 @@
 html {
-	height: 2000px
+	height: 2000px;
+	background-image: url("/images/bg31p.jpg");
+	background-position: absolute;
+	background-size: cover;
+	background-repeat: no-repeat;
 }
 
 body {
@@ -7,10 +11,7 @@ body {
 	overflow-x:hidden;
 	overflow-y: scroll;
 	height: 100vh;
-	background-image: url("/images/bg31p.jpg");
-	background-position: absolute;
-	background-size: cover;
-	background-repeat: no-repeat;
+	
 }
 
 .container {
