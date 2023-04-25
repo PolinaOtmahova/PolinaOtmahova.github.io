@@ -640,7 +640,7 @@
 	}
 
 	body{
-		background: url("/images/bg315p.jpg") no-repeat scroll;
+		background: url("/images/bg315p.jpg") no-repeat fixed;
 	}
 
 	.nav{
