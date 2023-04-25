@@ -639,6 +639,9 @@
 		max-width: none;
 	}
 
+	html{
+		height: 711px;
+	}
 
 	body{
 		background: url("/images/bg315p.jpg") no-repeat scroll;
