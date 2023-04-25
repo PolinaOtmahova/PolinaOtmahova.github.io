@@ -645,7 +645,7 @@
 	body{
 		background: url("/images/bg317p.jpg");
 		background-position: auto center;
-		background-repeat:no-repeat;
+		background-repeat:repeat;
 		background-attachment: fixed;
 	}
 
