@@ -509,7 +509,6 @@
 		background: url("/images/bg316p.jpg");
 		background-position: center center;
 		background-repeat: no-repeat;
-		background-attachment: fixed;
 	}
 
 	body:before {
