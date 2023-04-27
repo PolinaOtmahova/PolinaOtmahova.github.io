@@ -505,11 +505,9 @@
 		max-width: none;
 	}
 
-	body{
+	.bg{
 		background: url("/images/bg316p.jpg");
 		background-position: auto center;
-		background-repeat: repeat;
-		background-attachment: fixed;
 	}
 
 	.nav{
@@ -642,11 +640,9 @@
 		max-width: none;
 	}
 
-	body{
+	.bg{
 		background: url("/images/bg317p.jpg");
 		background-position: auto center;
-		background-repeat:repeat;
-		background-attachment: fixed;
 	}
 
 	.nav{
