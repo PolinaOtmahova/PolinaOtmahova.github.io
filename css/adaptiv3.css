@@ -514,14 +514,15 @@
 	body:before {
 		content: '';
 		background-image: url("/images/bg316p.jpg");
+		background-repeat: no-repeat;
 		background-position: center center;
 		position: fixed;
 		left: 0;
 		right: 0;
 		bottom: 0;
-		top: -80x;
-		padding-bottom: 80px;
-		transform: translateY(80px);
+		top: -70x;
+		padding-bottom: 70px;
+		transform: translateY(70px);
 		z-index: -1;
 	}
 
@@ -659,19 +660,21 @@
 	body{
 		background: url("/images/bg317p.jpg");
 		background-position: center center;
+		background-repeat: no-repeat;
 	}
 
 	body:before {
 		content: '';
 		background-image: url("/images/bg317p.jpg");
+		background-repeat: no-repeat;
 		background-position: center center;
 		position: fixed;
 		left: 0;
 		right: 0;
 		bottom: 0;
-		top: -80x;
-		padding-bottom: 80px;
-		transform: translateY(80px);
+		top: -70x;
+		padding-bottom: 70px;
+		transform: translateY(70px);
 		z-index: -1;
 	}
 
