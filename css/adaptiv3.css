@@ -657,14 +657,14 @@
 
 	body{
 		background: url("/images/bg317p.jpg");
-		background-position: auto center;
+		background-position: center;
 		background-attachment: fixed;
 	}
 
 	body:before {
 		content: '';
 		background-image: url("/images/bg317p.jpg");
-		background-position: auto center;
+		background-position:center;
 		background-size: cover;
 		position: fixed;
 		left: 0;
