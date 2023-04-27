@@ -607,7 +607,7 @@
 		width: 290px;
 		height: 300px;
 		line-height: 23px;
-		padding-bottom: 0;
+		-bottom: 0;
 	}
 
 	.button {
