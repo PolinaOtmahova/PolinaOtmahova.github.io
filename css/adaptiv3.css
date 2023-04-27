@@ -667,9 +667,9 @@
 		left: 0;
 		right: 0;
 		bottom: 0;
-		top: -70px;
-		padding-bottom: 70px;
-		transform: translateY(70px);
+		top: -80x;
+		padding-bottom: 80px;
+		transform: translateY(80px);
 		z-index: -1;
 	}
 
