@@ -508,17 +508,18 @@
 	body{
 		background: url("/images/bg316p.jpg");
 		background-position: center center;
+		background-repeat: no-repeat;
 	}
 
 	body:before {
 		content: '';
-		background: url("/images/bg316p.jpg");
+		background-image: url("/images/bg316p.jpg");
 		background-position: center center;
 		position: fixed;
 		left: 0;
 		right: 0;
 		bottom: 0;
-		top: -70x;
+		top: -70px;
 		padding-bottom: 70px;
 		transform: translateY(70px);
 		z-index: -1;
@@ -662,13 +663,13 @@
 
 	body:before {
 		content: '';
-		background: url("/images/bg317p.jpg");
+		background-image: url("/images/bg317p.jpg");
 		background-position: center center;
 		position: fixed;
 		left: 0;
 		right: 0;
 		bottom: 0;
-		top: -70x;
+		top: -70px;
 		padding-bottom: 70px;
 		transform: translateY(70px);
 		z-index: -1;
