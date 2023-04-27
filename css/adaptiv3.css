@@ -512,6 +512,19 @@
 		background-attachment: fixed;
 	}
 
+	body:before {
+		content: '';
+		background-image: url("/images/bg316p.jpg");
+		background-position: auto center;
+		background-size: cover;
+		position: fixed;
+		left: 0;
+		right: 0;
+		top: 0;
+		bottom: 0;
+		z-index: -1;
+	}
+
 	.nav{
 		left: 70px;
 	}
