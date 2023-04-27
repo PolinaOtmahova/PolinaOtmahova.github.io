@@ -512,7 +512,7 @@
 
 	body:before {
 		content: '';
-		background-image: url("/images/bg316p.jpg");
+		background: url("/images/bg316p.jpg");
 		background-position: center center;
 		position: fixed;
 		left: 0;
@@ -662,7 +662,7 @@
 
 	body:before {
 		content: '';
-		background-image: url("/images/bg317p.jpg");
+		background: url("/images/bg317p.jpg");
 		background-position: center center;
 		position: fixed;
 		left: 0;
