@@ -516,7 +516,6 @@
 		content: '';
 		background-image: url("/images/bg316p.jpg");
 		background-position: center center;
-		background-size: cover;
 		position: fixed;
 		left: 0;
 		right: 0;
@@ -665,7 +664,6 @@
 		content: '';
 		background-image: url("/images/bg317p.jpg");
 		background-position: auto center;
-		background-size: cover;
 		position: fixed;
 		left: 0;
 		right: 0;
