@@ -508,7 +508,7 @@
 	body{
 		background: url("/images/bg316p.jpg");
 		background-position: auto center;
-		background-repeat: repeat;
+		background-repeat: no-repeat;
 		background-attachment: fixed;
 	}
 
