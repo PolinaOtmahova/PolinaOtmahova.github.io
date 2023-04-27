@@ -518,10 +518,8 @@
 		position: fixed;
 		left: 0;
 		right: 0;
+		top: 0;
 		bottom: 0;
-		top: -70px;
-		padding-bottom: 70px;
-		transform: translateY(70px);
 		z-index: -1;
 	}
 
@@ -658,20 +656,18 @@
 
 	body{
 		background: url("/images/bg317p.jpg");
-		background-position: center center;
+		background-position: auto center;
 	}
 
 	body:before {
 		content: '';
 		background-image: url("/images/bg317p.jpg");
-		background-position: center center;
+		background-position: auto center;
 		position: fixed;
 		left: 0;
 		right: 0;
+		top: 0;
 		bottom: 0;
-		top: -70px;
-		padding-bottom: 70px;
-		transform: translateY(70px);
 		z-index: -1;
 	}
 
