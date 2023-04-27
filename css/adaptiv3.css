@@ -607,7 +607,7 @@
 		width: 290px;
 		height: 300px;
 		line-height: 23px;
-		-bottom: 0;
+		margin-bottom: 0;
 	}
 
 	.button {
@@ -656,13 +656,13 @@
 
 	body{
 		background: url("/images/bg317p.jpg");
-		background-position: auto center;
+		background-position: center center;
 	}
 
 	body:before {
 		content: '';
 		background-image: url("/images/bg317p.jpg");
-		background-position: auto center;
+		background-position: center center;
 		position: fixed;
 		left: 0;
 		right: 0;
