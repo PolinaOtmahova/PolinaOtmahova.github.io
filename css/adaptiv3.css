@@ -508,13 +508,11 @@
 	body{
 		background: url("/images/bg316p.jpg");
 		background-position: center center;
-		background-repeat: no-repeat;
 	}
 
 	body:before {
 		content: '';
 		background-image: url("/images/bg316p.jpg");
-		background-repeat: no-repeat;
 		background-position: center center;
 		position: fixed;
 		left: 0;
@@ -660,13 +658,11 @@
 	body{
 		background: url("/images/bg317p.jpg");
 		background-position: center center;
-		background-repeat: no-repeat;
 	}
 
 	body:before {
 		content: '';
 		background-image: url("/images/bg317p.jpg");
-		background-repeat: no-repeat;
 		background-position: center center;
 		position: fixed;
 		left: 0;
